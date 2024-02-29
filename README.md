@@ -1,5 +1,5 @@
 # Pycalc
-This is a simple calculator application built using Tkinter in Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+pycalc is a simple calculator application built using Tkinter in Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ![image](https://github.com/eusebioleite/python_calculator_gui/assets/43001205/79ae02c3-7ec6-4df4-a048-a7bcd3f18b4e)
 
